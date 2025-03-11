@@ -8,7 +8,7 @@ Summary:	Promises/A+ implementation for Python
 Summary(pl.UTF-8):	Implementacja Promises/A+ dla Pythona
 Name:		python-promise
 Version:	2.3
-Release:	2
+Release:	3
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/promise/
